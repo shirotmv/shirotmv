@@ -1,16 +1,16 @@
-## Hi there 👋
+## Soy Shirot 👋
 
-<!--
-**shirotmv/shirotmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> ¿QUE HAY DE MI? :neckbeard: </h2>
 
-Here are some ideas to get you started:
+<p align="left">
+  
+🎓 INGENIERO EN SISTEMAS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👽 ME CARACTERIZO EN APRENDER Y MEJORAR EN CUALQUIER SITUACION QUE SE PRESENTE
+
+💙 MANEJO DE 3 IDIOMAS PARA COMUNICARME : INGLES , ESPAÑOL y PORTUGUES
+
+📫 Contacto: **lofidiart@gmail.com*
+
+  </p>
+<br>
