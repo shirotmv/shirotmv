@@ -1,4 +1,4 @@
-## Hola Soy Shirot :neckbeard:
+## Hola Soy Shirot 😃
 
 <h2> ¿Quien soy? </h2>
 
