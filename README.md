@@ -1,6 +1,6 @@
 ## Hola Soy Shirot 😃
 
-<h2> ¿Quien soy? </h2>
+<h2> Sobre Mi </h2>
 
 <p align="left">
   
