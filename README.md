@@ -1,6 +1,6 @@
-## Soy Shirot 👋
+## Hola Soy Shirot :neckbeard:
 
-<h2> ¿QUE HAY DE MI? :neckbeard: </h2>
+<h2> ¿Quien soy? </h2>
 
 <p align="left">
   
